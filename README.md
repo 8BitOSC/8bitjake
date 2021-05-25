@@ -1,3 +1,2 @@
-### Hello, World!
-**Who am I?**
-I'm a programmer who does stuff.
+### Stats
+[![Stats](https://github-readme-stats.vercel.app/api?username=8bitjake)](https://github.com/anuraghazra/github-readme-stats)
