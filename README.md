@@ -3,4 +3,4 @@
 
 ![scratch forum post count](https://img.shields.io/badge/dynamic/json?color=orange&label=scratch%20post%20count&query=counts.total.count&url=https://scratchdb.lefty.one/v3/forum/user/info/8bitjake)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=8bitjake)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=8bitjake&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
